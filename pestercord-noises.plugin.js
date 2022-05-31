@@ -2,7 +2,7 @@
  * @name PestercordNoises
  * @author luminaryFlowers
  * @description This plugin changes the default Discord connect/disconnect sounds to be the Pesterchum chat open/close noises.
- * @version 1.0.0
+ * @version 1.1.0
  * @authorLink https://lumenscode.tumblr.com/
  * @donate https://ko-fi.com/lumens
  * @website https://lumens.live
