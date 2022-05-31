@@ -6,7 +6,7 @@
  * @authorLink https://lumenscode.tumblr.com/
  * @donate https://ko-fi.com/lumens
  * @website https://lumens.live
- * @source https://github.com/tortoisetea/pestercord-noises
+ * @source https://github.com/luminaryFlowers/pestercord-noises
  */
 
 /*
