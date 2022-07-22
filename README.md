@@ -18,13 +18,13 @@ This plugin was made to be used alongside the [Pestercord 4/13 Edition Theme](ht
 2. Navigate to the releases page of this repository, located [here](https://github.com/luminaryFlowers/pestercord-noises/releases). Here, you'll want to download the latest release's "pestercord-noises.plugin.js" file, or the "pestercord-noises-call.plugin.js" (depending on which version you want).
 
 3. Inside of Discord, navigate to the "Plugins" tab of the Discord settings, and click on the "Open Plugins Folder" button.
-
   ![image](https://user-images.githubusercontent.com/71102109/171110196-d3d2b1b2-88d8-498f-bda2-043c0c9c1cc4.png)
 
 4. Put the pestercord-noises.plugin.js (or pestercord-noises-call.plugin.js) file directly into the plugins folder.
 
 5. The plugin should now appear in the Plugins tab of the Discord settings. You'll have to enable it now!
 
-6. Restart Discord. (CTRL + R works peachy for this! It might be CMD + R on Mac?)
-
-7. You're done! Keep in mind that the first instance of each noise playing will be the Discord default, but the second instance onward will be the Pesterchum noise proper! That'll be the case every time you restart Discord, by the way.
+6. Once the plugin's activated, you can press the SBURB icon at the bottom of the server tray to tell Discord to replace the noises. 
+  ![image](https://user-images.githubusercontent.com/71102109/180389483-d8a602e5-6755-46f8-957f-7860be175e03.png)
+   
+   Note that a sound can only be replaced once Discord has played it at least once since you last opened it! I.e., if you haven't received a message, clicking on the SBURB icon will NOT replace the message noise; however, if you press it once you *have* received a message, then every message you receive afterward will play the correct noise!
