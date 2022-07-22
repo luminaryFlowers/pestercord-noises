@@ -25,6 +25,7 @@ This plugin was made to be used alongside the [Pestercord 4/13 Edition Theme](ht
 5. The plugin should now appear in the Plugins tab of the Discord settings. You'll have to enable it now!
 
 6. Once the plugin's activated, you can press the SBURB icon at the bottom of the server tray to tell Discord to replace the noises. 
-  ![image](https://user-images.githubusercontent.com/71102109/180389483-d8a602e5-6755-46f8-957f-7860be175e03.png)
+
+   ![image](https://user-images.githubusercontent.com/71102109/180389483-d8a602e5-6755-46f8-957f-7860be175e03.png)
    
    Note that a sound can only be replaced once Discord has played it at least once since you last opened it! I.e., if you haven't received a message, clicking on the SBURB icon will NOT replace the message noise; however, if you press it once you *have* received a message, then every message you receive afterward will play the correct noise!
