@@ -1,3 +1,7 @@
+## Please note that, due to some updates to Discord/BetterDiscord, this plugin no longer functions.
+
+Currently, I'm more interested in working on other projects, so if I do try to restore functionality, it might be a while from now (now being January 2023)!
+
 # Pestercord Noises
 
 Pestercord Noises is a [BetterDiscord](https://betterdiscord.app/) plugin which changes some of Discord's default noises to be Pesterchum themed! 
